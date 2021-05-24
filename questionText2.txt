@@ -1,0 +1,3 @@
+Which of the following statements are true? I.Shortest remaining time first scheduling may cause starvation II.Preemptive scheduling may cause starvation III.Round robin is better than FCFS in terms of response time A) I only B) I and III only C) II and III only D) I, II and III
+If the quantum time of round robin algorithm is very large, then it is equivalent to: A)First in first out B)Shortest Job Next C)Lottery scheduling D)None of the above
+Which of the following process scheduling algorithm may lead to starvation? a)FIFO b)Round Robin c)Shortest Job Next d)None of the above.

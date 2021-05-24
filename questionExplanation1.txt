@@ -1,0 +1,3 @@
+In cases where two or more thread with same priority are competing for CPU cycles, different operating system handle this situation differently. Some execute them in time sliced manner some depending on the thread they call.
+All the resources like data section, code section, open files, signals are shared between process that belong to the same process.
+Blocking of one kernel thread doesn't effect the other threads. 
